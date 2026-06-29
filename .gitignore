@@ -26,3 +26,4 @@ Thumbs.db
 
 # Data files (large CSV files)
 data/*.csv
+streamlit.log
